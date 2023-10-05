@@ -397,7 +397,7 @@ df_airbnb['AvgRating'].plot.hist()
 
 
     
-![png](output_9_1.png)
+![png](/images/output_9_1.png)
     
 
 
@@ -430,7 +430,7 @@ df_airbnb['BookingsPerMonth'].plot.hist()
 
 
     
-![png](output_12_1.png)
+![png](/images/output_12_1.png)
     
 
 
